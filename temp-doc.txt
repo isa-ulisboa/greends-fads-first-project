@@ -1,0 +1,8 @@
+5.1. Can you explain the copy (cp ../temp-* .) command used above?
+The command copies all files whose name begins with "temp-" to the current folder.
+
+5.2. Can you explain why, in this case, we did not have to do git init?
+There was no need for `git init` because the folder was created using the `git clone` command, which downloads the repository with the entire Git structure already in place.
+
+5.3. Can you commit the files copied? What do you need to do? Execute the commands that are needed.
+Yes. You need to add the files to the staging area with `git add .` and then commit the change with `git commit -m "message"`.
