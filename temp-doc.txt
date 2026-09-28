@@ -1,0 +1,11 @@
+The coomand cp ../temp-* . copies files. 
+"cp" means copy, ".."means the folder one level up( the parent folder), 
+"temp-*" means every file  whose name start with "temp-"
+(the * is a wildcard that matches any characters),
+
+i did not have to run git init because git clonehad already created the respository.
+When i cloned the project from github,  it downloaded the files togehter with the hidden.git folder, which makes a folder a git respository
+
+To commit the copied files i ran:
+ git add .
+ git commit -m "add temp files and answers"
