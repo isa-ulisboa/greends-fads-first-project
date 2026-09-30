@@ -1,0 +1,8 @@
+5.1. Can you explain the copy (cp ../temp-* .) command used above?
+O comando cp serve para copiar ficheiros. O ../ indica que queremos ir procurar ficheiros à pasta anterior. O temp-* usa o asterisco como um "wildcard" para selecionar todos os ficheiros que comecem pela palavra "temp-". Finalmente, o . no final indica que o destino da cópia é a diretoria atual onde estamos. Ou seja, copia todos os ficheiros iniciados por "temp-" da pasta superior para a pasta atual.
+
+5.2. Can you explain why, in this case, we did not have to do git init?
+Não foi necessário usar o git init porque utilizámos o comando git clone no passo anterior. O comando clone não só descarrega os ficheiros do GitHub, como também inicializa automaticamente a pasta como um repositório Git.
+
+5.3. Can you commit the files copied? What do you need to do? Execute the commands that are needed.
+Para fazer o commit dos novos ficheiros, é necessário primeiro adicioná-los usando o comando git add, e só depois fazer o commit usando o comando git commit.
