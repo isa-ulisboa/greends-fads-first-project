@@ -1,0 +1,10 @@
+5.1. The command cp ../my-first-project/temp-* . copies all the files that start with "temp-" from the my-first-project folder to the folder where we are currently working.
+
+5.2. We did not need to use git init because we cloned an existing Git repository. When we use git clone, the repository is already initialized and the .git folder is copied with it.
+
+5.3. To commit the copied files, we first need to add them to Git and then make the commit. The commands are:
+
+git add temp-average.py
+git add temp-data.csv
+git add temp-doc.txt
+git commit -m "Add temporary project files"
