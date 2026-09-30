@@ -1,0 +1,15 @@
+5.1. Can you explain the copy (cp ../temp-* .) command used above?
+cp copies files. ".." refers to the parent directory, "temp-*" matches every
+file whose name starts with "temp-" and "." is the current
+directory. In my case the temp files were inside
+my-first-project, so I adapted it to: cp ../my-first-project/temp-* .
+
+5.2. Can you explain why, in this case, we did not have to do git init?
+Because the folder was obtained with git clone: it is already a Git
+repository, with its hidden .git directory. git init is only needed to turn a plain folder into a
+new repository.
+
+5.3. Can you commit the files copied? What do you need to do?
+The files are untracked, so they must first be staged, then committed:
+git add .
+git commit -m "add temp files and answers to exercise 2"
