@@ -1,0 +1,15 @@
+Exercise 2 — Git and GitHub
+
+5.1. Can you explain the copy (cp ../temp-* .) command used above?
+cp copies files. ../ refers to the parent directory, temp-* matches names beginning with temp-, and . refers to the current directory. However, with the folder structure in this exercise, the files are in the sibling folder my-first-project. The correct Git Bash command is: cp ../my-first-project/temp-* .
+
+5.2. Can you explain why, in this case, we did not have to do git init?
+git clone already creates a local Git repository, including its .git directory, downloads the repository history and configures origin to refer to the cloned URL. Therefore, another git init is unnecessary.
+
+5.3. Can you commit the files copied? What do you need to do?
+Yes. First save this file and configure the Git author name and email. Then stage the three files and create a local commit:
+git add temp-data.csv temp-average.py temp-doc.txt
+git commit -m "Add project files and answers to exercise 2"
+git status
+To send the commit to my GitHub fork, run:
+git push origin main
