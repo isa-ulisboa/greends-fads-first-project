@@ -1,0 +1,5 @@
+5.1 O comando cp ..//temp-* . foi usado para copiar os ficheiros que criámos na pasta my first project para a pasta greends-fads-first-project que clonámos do git hub para o nosso computador 
+
+5.2 Não utilizámos o git innit porque, neste caso não é necessário "adaptar" o ficheiro para poder ser associado ao git hub, tal como fizémos quando criámos a pasta my first project, porque clonámos a pasta diretamente do git hub, logo, "já adaptada" 
+
+5.3 sim, podemos fazer commit dos ficheiros copiados com o comando git commit * -m "commit"

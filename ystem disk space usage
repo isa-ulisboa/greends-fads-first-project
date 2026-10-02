@@ -1,0 +1,187 @@
+[33mcommit 4c97d9bc1ce52a8a4b4838abed2b47db731765b9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: e98fbcd 56a8a20
+Author: gconofre25 <gconofre25@gmail.com>
+Date:   Wed Sep 30 16:09:54 2026 +0100
+
+    Merge branch 'main' of https://github.com/gconofre25/greends-fads-first-project
+
+[33mcommit e98fbcd5130380bb017f38cb0ddf647e05383603[m
+Author: gconofre25 <gconofre25@gmail.com>
+Date:   Wed Sep 30 16:09:32 2026 +0100
+
+    98
+
+[33mcommit 56a8a2093c18ad7c8b4983ebf785ea0f7f577336[m
+Author: gconofre25 <gconofre25@gmail.com>
+Date:   Wed Sep 30 16:08:47 2026 +0100
+
+    Fix typos in quote_with_typos.md9
+    
+    Corrected typos in the quote, including 'tiem' to 'time', 'stmps' to 'stamps', 'boks' to 'books', 'beverge' to 'beverage', and 'botles' to 'bottles'.
+
+[33mcommit 40b40e8a6165ecd39957b3ee1edfd943df3bfe6e[m
+Author: gconofre25 <gconofre25@gmail.com>
+Date:   Wed Sep 30 15:59:26 2026 +0100
+
+    5
+    
+    Corrected typos in the quote, including 'tiem' to 'time', 'stmps' to 'stamps', 'boks' to 'books', and 'beverge' to 'beverage'.
+
+[33mcommit 8c9321e34a07ccf66da99bc4d781817bb9d3ed4a[m
+Author: gconofre25 <gconofre25@gmail.com>
+Date:   Wed Sep 30 15:44:35 2026 +0100
+
+    versiongit
+    
+    Corrected typos in the quote, including 'tiem' to 'time', 'stmps' to 'stamps', 'boks' to 'books', 'beverge' to 'beverage', 'botles' to 'bottles', and 'duccks' to 'ducks'.
+
+[33mcommit 0cb84091ddeb619c959deeac271ee2081a8ed6d0[m
+Author: gconofre25 <gconofre25@gmail.com>
+Date:   Wed Sep 30 15:41:00 2026 +0100
+
+    Fix typos in quote_with_typos.mdt
+    
+    Corrected multiple typos in the text.
+
+[33mcommit 6c6b4c633f2de0657b0fb87095114abc4186df8b[m
+Merge: 7e2ee2a c6c8eaf
+Author: gconofre25 <gconofre25@gmail.com>
+Date:   Wed Sep 30 15:33:46 2026 +0100
+
+    Merge branch 'main' of https://github.com/gconofre25/greends-fads-first-project
+
+[33mcommit 7e2ee2ae0309adde94ca7c1a407c7be85b840c73[m
+Author: gconofre25 <gconofre25@gmail.com>
+Date:   Wed Sep 30 15:33:16 2026 +0100
+
+    agora da
+
+[33mcommit c6c8eaf80c314006455caf7e4ce078b907bc3da2[m
+Author: gconofre25 <gconofre25@gmail.com>
+Date:   Wed Sep 30 15:32:34 2026 +0100
+
+    Fix typos in quote_with_typos.md agora da
+    
+    Corrected typos in the quote, including 'tiem' to 'time', 'stmps' to 'stamps', 'boks' to 'books', 'beverge' to 'beverage', 'botles' to 'bottles', and 'duccks' to 'ducks'.
+
+[33mcommit cde671e405923a9935e807ae0301d4bb1e05b687[m
+Author: gconofre25 <gconofre25@gmail.com>
+Date:   Wed Sep 30 15:30:55 2026 +0100
+
+    Fix typos in quote_with_typos.mdsim
+    
+    Corrected typos in the quote, including 'tiem' to 'time', 'stmps' to 'stamps', 'boks' to 'books', 'beverge' to 'beverage', 'botles' to 'bottles', and 'duccks' to 'ducks'.
+
+[33mcommit dae4d7f83645ebc106c0bc27fe5d5954a9d6d438[m
+Author: gconofre25 <gconofre25@gmail.com>
+Date:   Wed Sep 30 15:27:46 2026 +0100
+
+    Fix typos in quote_with_typos.md:(again
+    
+    Corrected typos in the quote, including 'spare tiem' to 'spare time', 'stmps' to 'stamps', 'boks' to 'books', 'botles' to 'bottles', and 'duccks' to 'ducks'.
+
+[33mcommit bf2fd1166bf32d3f3e86a59a58b6a947ccf8e519[m
+Merge: 10f7ce3 b64e6f1
+Author: gconofre25 <gconofre25@gmail.com>
+Date:   Wed Sep 30 15:25:15 2026 +0100
+
+    Merge branch 'main' of https://github.com/gconofre25/greends-fads-first-project
+
+[33mcommit b64e6f1e49f3bbfb976774a7b12ba040c5cb61e3[m
+Author: gconofre25 <gconofre25@gmail.com>
+Date:   Wed Sep 30 15:07:23 2026 +0100
+
+    Fix typos in quote_with_typos.mdagain 3
+    
+    Corrected typos in the text, including 'tiem' to 'time', 'stmps' to 'stamps', 'boks' to 'books', 'beverge' to 'beverage', 'botles' to 'bottles', and 'duccks' to 'ducks'.
+
+[33mcommit 74df31b4eec2fbd75d2e7c07a01650fb36414936[m
+Author: gconofre25 <gconofre25@gmail.com>
+Date:   Wed Sep 30 14:57:15 2026 +0100
+
+    Update quote_with_typos.md
+
+[33mcommit 10f7ce3dc61ac8cb1711b8c78349cb680686b4b9[m
+Author: gconofre25 <gconofre25@gmail.com>
+Date:   Wed Sep 30 14:45:53 2026 +0100
+
+    again2
+
+[33mcommit 1a0b68a4e55a845bdecfbda395348a603af3895f[m
+Author: gconofre25 <gconofre25@gmail.com>
+Date:   Wed Sep 30 14:45:35 2026 +0100
+
+    Fix typos in quote_with_typos.mdagain
+    
+    Corrected typos in the quote text.
+
+[33mcommit 0f2fc3a3487c9ec8a67b596a6b165854eaee6a91[m
+Author: gconofre25 <gconofre25@gmail.com>
+Date:   Wed Sep 30 14:24:06 2026 +0100
+
+    git hub
+    
+    Corrected typos in the quote, fixing words like 'spare tiem' to 'spare time' and 'stmps' to 'stamps'. git
+
+[33mcommit c71fb8a6f9273712d2383f8ea73c965dcd43279b[m
+Merge: b486192 f61c55f
+Author: gconofre25 <gconofre25@gmail.com>
+Date:   Wed Sep 30 14:17:54 2026 +0100
+
+    Merge branch 'main' of https://github.com/gconofre25/greends-fads-first-project
+
+[33mcommit b48619294628c831c119b0d58d27add14888a8ec[m
+Author: gconofre25 <gconofre25@gmail.com>
+Date:   Mon Sep 28 22:37:35 2026 +0100
+
+    add a message
+
+[33mcommit f61c55f47b4981e2599c77eac070b1967b2b458e[m
+Author: gconofre25 <gconofre25@gmail.com>
+Date:   Mon Sep 28 22:07:26 2026 +0100
+
+    Fix typos in quote_with_typos.md
+    
+    Corrected multiple typos in the quote, including 'tiem' to 'time', 'stmps' to 'stamps', 'boks' to 'books', 'beverge' to 'beverage', 'botles' to 'bottles', and 'duccks' to 'ducks'.
+
+[33mcommit 8947a8af68a6eeb8ebb197250e93de85f53aef41[m
+Author: gconofre25 <gconofre25@gmail.com>
+Date:   Mon Sep 28 16:31:04 2026 +0100
+
+    commit
+
+[33mcommit d8bdda63ad6edbc3dd1406c7cc4a0bdb9eff4a79[m
+Author: Rui Figueira <ruifigueira@isa.ulisboa.pt>
+Date:   Sun Sep 15 20:26:38 2024 +0100
+
+    Delete temp-doc.txt
+
+[33mcommit 89299946a3a3d417b39f953c1f0a715fee4c89f8[m
+Author: Rui Figueira <ruifigueira@isa.ulisboa.pt>
+Date:   Sun Sep 15 20:26:24 2024 +0100
+
+    Delete temp-data.csv
+
+[33mcommit 0e6174c4f705a86214b17dac0291a87cc88bbf64[m
+Author: Rui Figueira <ruifigueira@isa.ulisboa.pt>
+Date:   Sun Sep 15 20:26:11 2024 +0100
+
+    Delete temp-average.py
+
+[33mcommit 39da6f66c0267ec04d56ec3a51eefab05ab2a3e8[m
+Author: Rui Figueira <ruifigueira@isa.ulisboa.pt>
+Date:   Sun Sep 15 19:50:29 2024 +0100
+
+    add quote
+
+[33mcommit b17519e982e5f6a1766dd4b1eb3a72ada4abada1[m
+Author: Rui Figueira <ruifigueira@teste.pt>
+Date:   Fri Sep 22 15:24:47 2023 +0100
+
+    initial commit
+
+[33mcommit a5d5a8eb1a42016f047a91b08f6c5bc73aca91fa[m
+Author: Rui Figueira <ruifigueira@isa.ulisboa.pt>
+Date:   Fri Sep 22 15:21:27 2023 +0100
+
+    Initial commit
