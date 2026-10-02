@@ -1,0 +1,8 @@
+5.1. Can you explain the copy (cp ../temp-* .) command used above? 
+"cp" is the command to copy, which is being used here to copy files into the new directory. ".." are two points which indicate one level above. "temp-*" uses "*" to match all files that start with "temp-", which is more efficient since this way, I did not have to retype the command or name to copy each of the temp- files. "." refers to the current directory. Altogether, the command intends to copy all files starting with "temp-" from the parent directory into the currenty directory, greends-fads-first-project. However, when I went to do this it did not work since the files were inside my-first-project, not directly in the parent directory. To correct this issue, I used cp ../my-first-project/temp-* .
+ 5.2. Can you explain why, in this case, we did not have to do git init?
+ Since the directory was created with git clone, which copies the whole repository from GitHub, this includes the hidden .git directory where git stores the history and tracking information. Therefore, the folder already was a git repository and connected to the remote repository. it is only when a normal folder is being turned into a new repository that git init is needed.
+ 5.3. Can you commit the files copied? What do you need to do? Execute the commands that are needed.
+ Since the copied files are untracked, I cannot commit the copied files directly. First, I began with staging with git add, and then committed with git commit: git add temp-average.py temp-data.csv temp doc. txt git commit -m "add temp files and answers to questions 5.1-5.3"
+ 
+ 
