@@ -1,0 +1,17 @@
+5.1 The command cp ../temp-* . copies files. cp is the copy command.
+"../" means the parent directory (one level up). "temp-*" uses the
+wildcard * to match every file whose name starts with "temp-"
+(temp-data.csv, temp-average.py, temp-doc.txt). The final "." is the
+destination: the current directory. The originals are kept; only copies
+are made.
+
+5.2 git init was not needed because the folder was created by git clone.
+Cloning downloads the repository together with its hidden .git directory
+and its history, and sets up the connection to the online repository
+(origin). git init is only needed to turn an existing folder that is not
+yet a repository into one.
+
+5.3 Yes. The copied files must be staged with git add and then committed:
+  git add .
+  git commit -m "Add temp project files"
+After this, git status shows "nothing to commit, working tree clean".
