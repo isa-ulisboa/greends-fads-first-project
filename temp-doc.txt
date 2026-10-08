@@ -1,0 +1,6 @@
+5.1. Can you explain the copy (cp ../temp-* .) command used above?
+The command "copy" was used in order to copy the commands used on "my-first-project" to the "greends-fads-first-project" folder, wich were used to clone to our pc.
+5.2. Can you explain why, in this case, we did not have to do git init?
+Since the project had already been created as a Git repository we didn´t use "git init", because "git init" is only used to turn a folder into a Git repository so Git can start tracking its files and changes.
+5.3. Can you commit the files copied? What do you need to do? Execute the commands that are needed.
+Yes we can commit the files. To do that we need to add the files to the "greends-fads-first-project" and commit them.
