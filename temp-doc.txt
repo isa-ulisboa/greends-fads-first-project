@@ -1,0 +1,10 @@
+Questions / Tasks
+
+Open the file temp-doc.txt that is inside the folder greends-fads-first-project, with VS Code, or your text editor, and copy and answer the following questions:
+
+5.1. Can you explain the copy (cp ../temp-* .) command used above?
+The copy command was used to copy the files we created in directory - my-first-project, so we can share it easily and in Versioned Control by using the new https connected directory (github).
+5.2. Can you explain why, in this case, we did not have to do git init?
+We didn't have to git init because we have git cloned the github directory from the site, which means it is already prepared for the sync, since we already initialized my-first-project.
+5.3. Can you commit the files copied? What do you need to do? Execute the commands that are needed.
+Yes, I needed to add them first and then commit with a name for the 2nd commit - in this case, it was called "atualiza temp-doc.txt".
